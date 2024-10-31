@@ -1,11 +1,13 @@
 # shell-automation-linux
 
-## Useful for personal automation on maybe useful for automation on Linux based EC2 instances
-## Rename fields in .sh file according to your usage
+1. Useful for personal automation on maybe useful for automation on Linux based EC2 instances
+2. Rename fields in .sh file according to your usage
+
+
+## STEPS:
 
 If you have some arbitrary **bash(.sh)** file in  **home/user/somefile/run.sh**
-
-Then follow these steps to make sure this bash script is always run on startup
+Then follow these steps to make sure this bash script is always run on startup.
 
 1. cd into **etc/systemd/system/**
 2. **sudo nano name.service**
