@@ -1,5 +1,7 @@
 # shell-automation-linux
-Useful for personal automation on maybe useful for automation on Linux based EC2 instances
+
+## Useful for personal automation on maybe useful for automation on Linux based EC2 instances
+## Rename fields in .sh file according to your usage
 
 If you have some arbitrary **bash(.sh)** file in  **home/user/somefile/run.sh**
 
